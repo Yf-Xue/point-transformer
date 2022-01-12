@@ -4,6 +4,8 @@ __pycache__
 runs
 build
 checkpoints
+data/
+.dataset/
 *.prof
 .lvimrc
 .vimtags
